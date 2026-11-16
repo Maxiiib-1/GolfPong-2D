@@ -50,3 +50,12 @@ El código fuente está disponible en este repositorio. Las instrucciones de com
 **Máximo Behrens Blanco**
 
 Estudiante de Licenciatura en Desarrollo de Videojuegos — Universidad Argentina de la Empresa (UADE).
+
+## Capturas del juego
+
+### Modo Hockey sobre hielo
+![Modo Hockey](hockey.png)
+
+### Modo Golf
+![Modo Golf](golf.png)
+
